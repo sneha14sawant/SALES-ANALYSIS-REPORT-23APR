@@ -11,4 +11,4 @@ navigate to the dashboard pages of different sellers.
 Headers has to be removed using the Interpreter at the Data Source.
 6. Proper Clean charts with proper title needs to be provided.
 
-## To view my Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/salesanalysis_16830383062930/SUMMARYPG)
+## To view Viz created by me on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/salesanalysis_16830383062930/SUMMARYPG)
