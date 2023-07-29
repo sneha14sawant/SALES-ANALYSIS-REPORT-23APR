@@ -1,6 +1,5 @@
 # Sales_Analysis_Report
-Problem Statement-  
-Prepare a Sales Report  - 
+Prepare a Sales Report-  
 
 1. Have a proper wireframe - Structure and background
 2. Firstly we shoud have a summary page with overall KPI's and trends.
@@ -12,4 +11,4 @@ navigate to the dashboard pages of different sellers.
 Headers has to be removed using the Interpreter at the Data Source.
 6. Proper Clean charts with proper title needs to be provided.
 
-To view my Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/salesanalysis_16830383062930/SUMMARYPG)
+##To view my Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/salesanalysis_16830383062930/SUMMARYPG)
